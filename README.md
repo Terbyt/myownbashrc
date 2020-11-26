@@ -4,4 +4,5 @@ Just drag the .bashrc file to your user directory. This will replace your old .b
 If you have an important .bashrc I prefer you backup it.
 
 Screenshot:
+
 ![Screenshot](https://i.imgur.com/icLKL7V.png)
